@@ -1,10 +1,8 @@
-# OpenClasseroomProjet6 - Récupération des informations d'un poste Linux et création / suppression de compte utilisateur. 
+# Récupération des informations d'un poste Linux et création / suppression de compte utilisateur. 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 
 ## Pour commencer
-
-Je vous partage ici un petit programme en lien avec le Projet6 de mes études en Administrateur Infrastructure et Cloud. 
 
 L'idée est de récupérer les informations système d'une machine Linux, mais aussi de créer un compte utilisateur ou de le supprimer. 
 
